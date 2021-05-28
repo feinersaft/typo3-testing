@@ -1,4 +1,14 @@
 {
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https//composer.typo3.org"
+		},
+		{
+			"type": "composer",
+			"url": "https://composer.sunzinet.com"
+		}
+	],
 	"name": "typo3/cms-base-distribution",
 	"description" : "TYPO3 CMS Base Distribution",
 	"license": "GPL-2.0-or-later",
