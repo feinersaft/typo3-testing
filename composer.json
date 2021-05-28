@@ -2,11 +2,7 @@
 	"repositories": [
 		{
 			"type": "composer",
-			"url": "https//composer.typo3.org"
-		},
-		{
-			"type": "composer",
-			"url": "https://composer.sunzinet.com"
+			"url": "https://composer.typo3.org"
 		}
 	],
 	"name": "typo3/cms-base-distribution",
